@@ -1,7 +1,7 @@
 class Nokia{
 int x,y;
 Nokia(){
-System.out.println("parents is executed");
+System.out.println("parents");
 }
 void f1(){
 System.out.println("parent function1 is executed");
